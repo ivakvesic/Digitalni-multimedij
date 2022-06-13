@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	
+	color: slateblue;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 18px;
+	line-height: 20px;
+	width: 800px;
+	background-color: azure;
+	padding: 20px;	
+}
+h1, h3, h2{
+	
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color:midnightblue;
+	font-size: 22px;
+}
+body{
+	
+	background-image: url("slike2/pozadina2.jpg")
+}
